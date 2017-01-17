@@ -1,0 +1,46 @@
+/*
+	STYLE.CSS:
+	One stylesheet to rule them all.
+
+	selector { property:value }
+
+*/
+
+
+ p {
+   color: red;
+ }
+
+h1 {
+  color: white;
+
+  margin: 0;
+}
+
+h2{
+  color: white;
+
+}
+header {
+height: 100px;
+ background-color: #403933; /* Dark Brown */
+
+}
+
+main {
+}
+
+footer {
+}
+
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
+
+
+body {
+  background-image: url('http://www.alienwarefxthemes.com/wp-content/gallery/alienware-backgrounds/Alienware-Desktop-Background-High-Performance-Systems-Blue-Head-1920x1200.jpg');
+  background-repeat: repeat;
+}
